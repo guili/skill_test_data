@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-01-08T22:03:10.574000",
+  "images": {
+    "image1": {
+      "path": "丽人-a0508ed16f.jpg",
+      "filename": "丽人-a0508ed16f.jpg"
+    },
+    "image2": {
+      "path": "美饰妆调-5973df6111.jpg",
+      "filename": "美饰妆调-5973df6111.jpg"
+    }
+  },
+  "pixel_difference": {
+    "total_pixels": 12582912,
+    "diff_pixels": 12459667,
+    "diff_ratio": 0.9902053674062093,
+    "max_diff": 234.0,
+    "mean_diff": 22.778506994247437,
+    "channel_diff": {
+      "red": 25.491305589675903,
+      "green": 26.039469242095947,
+      "blue": 16.80474615097046
+    }
+  },
+  "structural_similarity": {
+    "ssim_value": 0.637956039158426,
+    "similarity_level": "差异明显"
+  },
+  "image_hash": {
+    "hash1": "3060c8030beffc7e",
+    "hash2": "202008012baefc7e",
+    "hash_distance": 8
+  },
+  "summary": "两张图片像素差异很大（99.02% 的像素有差异）；结构相似度为 0.6380（差异明显）；图片哈希差异较小（距离: 8）"
+}
